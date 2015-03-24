@@ -1,4 +1,3 @@
-//= require admin/spree_backend
 //= require admin/jquery-timer
 
 $(document).ready(function(){
